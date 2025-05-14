@@ -1,0 +1,12 @@
+terraform {
+  required_providers {
+    azurerm = {
+      source  = "azurerm"
+      version = "4.24.0"
+    }
+  }
+}
+provider "azurerm" {
+  features {}
+  subscription_id = var.subscription_id
+}

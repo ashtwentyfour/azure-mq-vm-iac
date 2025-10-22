@@ -8,4 +8,8 @@
 > terraform apply
 ```
 
-Access IBM MQ Console on Port 9443
+### Access and Documentation
+
+Access IBM MQ Console on Port 9443 
+
+Reference: https://developer.ibm.com/tutorials/mq-setting-up-using-ibm-mq-console/
